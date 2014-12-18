@@ -1,1 +1,4 @@
 _ReSharper.ExcelWorkbook6
+*.suo
+ExcelWorkbook6/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/_ReSharper.ExcelWorkbook6
